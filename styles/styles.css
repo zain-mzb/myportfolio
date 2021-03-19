@@ -96,3 +96,53 @@ color: white;
 .imgmargin{
   margin-top: 13rem;
 }
+
+/* **********gallery****** */
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  display: block;
+}
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.checkthem{
+  font-weight: bold;
+  margin-bottom: 3rem;
+  
+}
+
+h6{
+  color: #fff;
+}
+
+.about{
+  background-color: #30d5c8;
+  color: #fff;
+}
+
+.about h1{
+  font-size: 4rem;
+}
+
+.about p{
+  margin-top:2rem;
+  font-size: 1.3rem;
+}
+
+.pic{
+height:500px;
+margin-left: 5rem;
+border: 5px solid #fff;
+display: inline-block;
+}
+
+#mail a{
+  color:#009092
+}
