@@ -170,9 +170,12 @@ display: inline-block;
   #headdiv h1{
     font-size: 2rem;
   }
-  #mainh4{
-    font-size: smaller;
+  #aboutpic{
+    height: 350px;
   }
+  /* #mainh4{
+    font-size: smaller;
+  } */
 }
 
 .bold{
