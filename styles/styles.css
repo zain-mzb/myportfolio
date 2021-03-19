@@ -90,7 +90,9 @@ color: white;
 }
 
 #mainh4{
-  line-height: 3rem;
+  line-height: 35px;
+  display:inline-block;
+  background-color: red;
 }
 
 .imgmargin{
@@ -155,6 +157,10 @@ display: inline-block;
 
   #codingpic{
     display: none;
+  }
+
+  #headdiv{
+    margin-top:-100px;
   }
 }
 
