@@ -164,6 +164,15 @@ display: inline-block;
   #rowdiv{
     margin-top:-150px;
   }
+  #zen{
+    font-size: 3rem;
+  }
+  #headdiv h1{
+    font-size: 2rem;
+  }
+  #mainh4{
+    font-size: smaller;
+  }
 }
 
 .bold{
