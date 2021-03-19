@@ -150,8 +150,7 @@ display: inline-block;
 
 @media screen and (max-width: 768px) {
   #aboutpic {
-    margin-right:15px;
-    height:400px;
+   margin-left:0;
   }
 
   #codingpic{
