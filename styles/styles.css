@@ -161,6 +161,9 @@ display: inline-block;
   #intro{
     padding-bottom: 200px;
   }
+  #rowdiv{
+    margin-top:-150px;
+  }
 }
 
 .bold{
