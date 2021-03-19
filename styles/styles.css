@@ -172,7 +172,9 @@ display: inline-block;
   }
   #aboutpic{
     height: 350px;
+    margin-right: 15px;
   }
+
   /* #mainh4{
     font-size: smaller;
   } */
