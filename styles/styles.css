@@ -150,7 +150,7 @@ display: inline-block;
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 568px) {
   #aboutpic {
    margin-left:0;
   }
@@ -158,16 +158,8 @@ display: inline-block;
   #codingpic{
     display: none;
   }
-
-  #headdiv{
-    margin-top:-150px;
-  }
-  #mainh4{
-    font-size: small;
-  }
-
-  nav{
-    background-color: royalblue;
+  #intro{
+    padding-bottom: 200px;
   }
 }
 
