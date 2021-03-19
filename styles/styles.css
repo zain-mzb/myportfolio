@@ -94,7 +94,7 @@ color: white;
 }
 
 .imgmargin{
-  margin-top: 13rem;
+  margin-top: 20px;
 }
 
 /* **********gallery****** */
@@ -158,3 +158,12 @@ display: inline-block;
   }
 }
 
+.bold{
+  font-weight: bold;
+
+}
+
+.bi{
+  font-weight: bold;
+  font-style: italic;
+}
