@@ -92,7 +92,7 @@ color: white;
 #mainh4{
   line-height: 35px;
   display:inline-block;
-  background-color: red;
+
 }
 
 .imgmargin{
@@ -160,7 +160,7 @@ display: inline-block;
   }
 
   #headdiv{
-    margin-top:-100px;
+    margin-top:-120px;
   }
 }
 
