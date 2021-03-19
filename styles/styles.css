@@ -146,3 +146,16 @@ display: inline-block;
 #mail a{
   color:#009092
 }
+
+
+@media screen and (max-width: 768px) {
+  #aboutpic {
+    margin-right:15px;
+    height:400px;
+  }
+
+  #codingpic{
+    display: none;
+  }
+}
+
