@@ -16,7 +16,7 @@ $(document)
         $('#show-previous-image')
           .hide();
       }
-    }
+    } 
 
     /**
      *
